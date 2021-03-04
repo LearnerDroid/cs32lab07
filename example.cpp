@@ -15,7 +15,7 @@ void kerblam(int *p)
 
 void explode()
 {
-   int *p
+   int *p;
    kerblam(p);
 }
 
